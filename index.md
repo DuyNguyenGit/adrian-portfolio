@@ -77,7 +77,7 @@ Check out the **[Projects](./projects)** page to see concrete examples.
 ## 📬 Contact
 
 - 📧 Email: `duy.nv144@gmail.com`
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/adrian-duy-nguyen)
-- 🧑‍💻 GitHub: [DuyNguyenGit](https://github.com/DuyNguyenGit)
+- 💼 LinkedIn: [Adrian Nguyen](https://www.linkedin.com/in/adrian-duy-nguyen)
+- 🧑‍💻 GitHub: [adriannguyen-dev](https://github.com/adriannguyen-dev)
 
 Feel free to reach out for roles related to **Senior Android Engineer / Mobile Engineer**.
