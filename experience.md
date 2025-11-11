@@ -4,10 +4,6 @@ title: "Experience"
 permalink: /experience/
 ---
 
-# 🧾 Experience
-
----
-
 ## Walmart Global Tech – Android Developer  
 **Location:** Sunnyvale, CA · **Dates:** 2024 – Present
 
