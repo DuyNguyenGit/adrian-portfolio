@@ -88,4 +88,4 @@ Here are some selected projects that best represent my work as an Android Engine
 
 You can see more samples of my code on GitHub:
 
-👉 [github.com/DuyNguyenGit](https://github.com/DuyNguyenGit)
+👉 [github.com/adriannguyen-dev](https://github.com/adriannguyen-dev)
